@@ -1,0 +1,3 @@
+1. While using next.js Zulkifal did not use Loader.jsx he made the whole page client side defeating the purpose of next.js RSC. 
+2. Members did not have separate layout as we had in the design.
+3. The graph component on the dashboard was not reused in the analytics page as he hard coded it and did not make it dynamic enough to be reused defeating the purpose of React.
