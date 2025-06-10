@@ -12,3 +12,8 @@
    - Lacks accessibility features (no ARIA attributes, keyboard navigation, or focus management).
    - Uses internal state for value management, which can cause issues in controlled forms.
    - Error handling is minimal and only visual.
+
+3. Form-Images/Delivery/CreateListingsModal.tsx
+   - The images gallery is hardcoded and not reusable as a component.
+   - No drag-and-drop functionality or image management features are implemented.
+   - Lacks modularity, making it difficult to extend or use elsewhere in the application.
